@@ -5,4 +5,4 @@ Sono una cosa *molto* figa.
 
 # Tutorial per boh
 
-Ciao faccio una pull request 
+Ciao, faccio una pull request. Adesso è con la punteggiatura. 
